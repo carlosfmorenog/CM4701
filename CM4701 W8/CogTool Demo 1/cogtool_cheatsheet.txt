@@ -1,0 +1,24 @@
+Create
+
+input device -> Touchscreen -> OK
+
+Modify -> Import Images as New Frames...
+	Select folder
+
+Double-click on each picture
+	Using the button widget, surround each of the design's "buttons"
+
+On the main view, click on each button widget & connect
+
+Open "spreadsheet" pop-up window (initially called *project: Untitled...)
+	Rename task by double-clicking on Task 1 (name it "main func")
+	Double click in the cell next to the task name
+	Select the start frame for the script
+	Start demonstrating (bottom-left)
+	Click as you would use the functionality
+	Compute
+
+Open "spreadsheet" pop-up window
+	Right click on the seconds -> Show model visualization
+		This option is also available on the pop-up window used to demonstrate
+	Right click on the seconds -> Export script to csv

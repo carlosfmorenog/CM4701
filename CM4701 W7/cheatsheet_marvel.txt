@@ -1,0 +1,5 @@
+Create project
+Name & Type
+Add some designs -> Upload (top-right)
+Hover over image -> click prototype -> add hotspots + transitions
+Play

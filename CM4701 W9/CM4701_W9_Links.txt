@@ -1,0 +1,41 @@
+ACM (Association for Computer Machinery)
+https://www.acm.org/
+* There are other associations e.g. BCS, BMVA, IAPR, IEEE, etc...
+
+SIGCHI (Special Interest Group - Computer Human Interaction)
+https://dl.acm.org/sig/sigchi
+* Mention the quality of the members and the variety of publications
+
+################################ CHI #########################################
+
+Conference Rankings
+http://www.conferenceranks.com/
+http://portal.core.edu.au/conf-ranks/
+http://portal.core.edu.au/conf-ranks/?search=chi&by=all&source=CORE2020&sort=arank&page=1
+
+History of CHI conference
+https://dl.acm.org/conference/chi
+* Most downloaded publication https://dl.acm.org/doi/10.1145/97243.97281
+https://dl.acm.org/doi/pdf/10.1145/97243.97281
+* Third most cited publication https://dl.acm.org/doi/10.1145/1240624.1240704
+https://dl.acm.org/doi/pdf/10.1145/1240624.1240704
+
+CHI 2020 in "Hawaii"
+https://chi2020.acm.org/
+* resorted to recorded ppts https://chi2020.acm.org/blog/chi-2020-remote-presentations/
+* portal to look at the content https://acmchi.delegateconnect.co/#
+* Proceedings https://dl.acm.org/conference/chi/proceedings
+
+CHI 2021 in "Yokohama"
+https://chi2021.acm.org/
+* Different ways of publishing https://chi2021.acm.org/for-authors
+* portal to look at the content https://programs.sigchi.org/chi/2020
+* Proceedings https://dl.acm.org/doi/proceedings/10.1145/3411764
+
+CHI 2022 in Louisiana!
+https://chi2022.acm.org/
+* Different ways of publishing https://chi2022.acm.org/for-authors
+
+When your paper is very good, you get invited to publish on a Special Issue of a journal
+* TOCHI https://dl.acm.org/journal/tochi
+* TSC https://dl.acm.org/journal/tsc
